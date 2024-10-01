@@ -30,7 +30,7 @@ Task manager application using GraphQL & NoSQL (MongoDB).
 
 ## Database
 - MongoDB (NoSQL)
-Jag valde NoSQL databas eftersom
+- Jag valde MongoDB databas eftersom det ger mig större flexibilitet. Dessutom använder det sig av JSON-liknande dokument, detta gör integrationen med GraphQL och JavaScript lättare. Du kan också snabbt göra ändringar i din datamodell utan att behöva migrera hela databasen, vilket kan vara nödvändigt i relationsdatabaser som MySQL eller PostgreSQL.
 
 ## Technologies
 - GraphQL: Ett flexibelt API-frågespråk som låter klienter begära den data de behöver via queries.
