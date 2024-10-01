@@ -1,7 +1,7 @@
 # Trullo
 
 ## Description
-Task manager application using GraphQL & NoSQL (MongoDB).
+Task manager application using GraphQL & MongoDB (NoSQL).
 
 ## Installation
 
